@@ -3,9 +3,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 
-/*  LUCAS RIBEIRO CANO
-    RA: 21436547
-*/
+
 
 public class App {
     public static void main(String[] args) throws Exception {
